@@ -1,0 +1,14 @@
+th{
+    background-color: rgb(94, 141, 235);
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+table{
+    width: 900px;
+    padding:10px;
+       
+}
+td{
+   padding: 7px;
+}
